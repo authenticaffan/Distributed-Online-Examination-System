@@ -1,43 +1,8 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
   <h1>Online Exam Portal</h1>
   <p>
     A Online Exam portal website with backend in Nodejs and frontend in React js 
   </p>
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/chintan-golakiya/online-exam-portal" alt="last update" />
-  </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/network/members">
-    <img src="https://img.shields.io/github/forks/chintan-golakiya/online-exam-portal" alt="forks" />
-  </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/stargazers">
-    <img src="https://img.shields.io/github/stars/chintan-golakiya/online-exam-portal" alt="stars" />
-  </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">
-    <img src="https://img.shields.io/github/issues/chintan-golakiya/online-exam-portal" alt="open issues" />
-  </a>
-</p>
-   
-<h4>
-    <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
-  </h4>
-</div>
 
 <br />
 
@@ -134,7 +99,7 @@ This project uses MongoDB as database. please install mongodb server in local en
 Clone the project
 
 ```bash
-  git clone https://github.com/chintan-golakiya/online-exam-portal.git
+  git clone https://github.com/authenticaffan/Distributed-Online-Examination-System.git
 ```
 
 Go to the project directory
@@ -178,7 +143,7 @@ Start the frontend client for teacher/student
 <b>Note</b> : admin user is created when backend runs first time. default admin (username, password) details are <b>("sysadmin","systemadmin"). addAdminIfNotFound() function of backend/services/admin.js file </b> is for this logic. You can check/modify default admin details from this function.
 
 <!-- Run with Docker -->
-### Run With Docker
+<!-- ### Run With Docker
 
 build docker images
 
@@ -201,25 +166,10 @@ Use following paths
 ```
 
 <!-- To Do -->
-## :notes: to-do
+<!-- ## :notes: to-do
   <ul>
   <li> add more features </li>
-  </ul>
- 
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-
+  </ul> -->
 
 <!-- License -->
 ## :warning: License
@@ -230,16 +180,6 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
+Mohamed Affan - [@authenticaffan](https://twitter.com/authenticaffan) - authenticaffan@gmail.com
 
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
-
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-Following libraries have been used in this projects.
-
- - [Material UI](https://www.mui.com)
- - [Passport JS](https://www.passportjs.org/)
- - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
-
+Project Link: [https://github.com/authenticaffan/Distributed-Online-Examination-System](https://github.com/authenticaffan/Distributed-Online-Examination-System)
