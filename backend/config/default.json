@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://admin:visionarywizards@cluster0.keizq.mongodb.net/oes?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"<smtp server userId>",
+        "password" : "<smtp server password>"
+    }
+}

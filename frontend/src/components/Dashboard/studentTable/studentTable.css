@@ -1,0 +1,23 @@
+th, td {
+  border : 1px solid black;
+}
+
+.main {
+  background-color: #FBFFE4;
+  color:black;
+  padding: 20px 100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 5%;
+  
+}
+
+.title {
+  color:black;
+  text-align: center;
+}

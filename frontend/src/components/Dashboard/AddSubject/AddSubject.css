@@ -1,0 +1,24 @@
+.form-class {
+  background-color: #A3D1C6;
+  padding: 50px 100px;
+}
+
+.linkbtn {
+  color:white
+}
+h2{
+  color: black;
+}
+form button{
+  padding: 5px;
+  border-radius: 10%;
+  display: block;
+  margin-top: 10px;
+  background-color: #3D8D7A;
+  color: white;
+}
+form input{
+  padding: 5px;
+  display: block;
+}
+
