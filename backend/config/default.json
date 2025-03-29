@@ -1,6 +1,6 @@
 {
     "mongodb": {
-        "connectionString": ""
+        "connectionString": "mongodb://localhost:27017/exam"
     },
     "jwt": {
         "secret" : "Examination Portal Application"
