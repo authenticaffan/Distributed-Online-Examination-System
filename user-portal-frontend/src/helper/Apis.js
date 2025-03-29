@@ -1,5 +1,6 @@
 const environment = process.env.NODE_ENV;
-let base_local_url = 'http://localhost:3001';
+// let base_local_url = 'http://localhost:3001';
+let base_local_url = process.env.URL;
 let base_backend_url = 'http://localhost:5000';
 if(environment==='docker') {
   base_local_url = 'http://user-frontend-app:3001';

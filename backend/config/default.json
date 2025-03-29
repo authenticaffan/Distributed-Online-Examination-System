@@ -1,6 +1,6 @@
 {
     "mongodb": {
-        "connectionString": "mongodb://localhost:27017/exam"
+        "connectionString": "mongodb+srv://admin:visionarywizards@cluster0.keizq.mongodb.net/oes?retryWrites=true&w=majority&appName=Cluster0"
     },
     "jwt": {
         "secret" : "Examination Portal Application"
