@@ -43,14 +43,14 @@
     ]
   },
   "license": "MIT",
-  "main": "index.js",
+  "main": "server.js",
   "name": "examportalbackend",
   "repository": {
     "type": "git",
     "url": "git+https://github.com//backend.git"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "jest"
   },
   "version": "1.0.0"
